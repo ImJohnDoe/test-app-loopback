@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "Hello": 3
+  },
+  "models": {
+    "Hello": {
+      "1": "{\"msg\":\"hey there\",\"sender\":\"roman\",\"id\":1}",
+      "2": "{\"msg\":\"What's up?\",\"sender\":\"roman\",\"id\":2}"
+    }
+  }
+}
